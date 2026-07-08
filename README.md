@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **web development, full stack workflows, or scalable backend design**
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salmanbarickm/) | [GitHub](https://github.com/salman-06)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salmanbarickm/) | [GitHub](https://github.com/Salman-101104)
 
 ---
 
@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/salmanbarickm" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/salman-06" target="_blank">
+  <a href="https://github.com/Salman-101104" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
