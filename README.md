@@ -33,6 +33,12 @@
 
 ---
 
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salman-06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ### 📈 GitHub Stats
 
 <p align="left">
